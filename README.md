@@ -1,4 +1,4 @@
 # Demo-repo
 This is my first repository!
 <br>
-Author- Abhinav Thakur
+Author- Abhinav Thakur(Developer)
